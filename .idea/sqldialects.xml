@@ -4,7 +4,9 @@
     <file url="file://$PROJECT_DIR$/app/src/main/groovy/linketinder/database/dbInit.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/app/src/main/groovy/linketinder/domain/candidate/CandidateDAO.groovy" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/app/src/main/groovy/linketinder/domain/company/CompanyDAO.groovy" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/app/src/main/groovy/linketinder/domain/vacancy/VacancyDAO.groovy" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/app/src/test/groovy/linketinder/CandidateTest.groovy" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/app/src/test/groovy/linketinder/CompanyTest.groovy" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/app/src/test/groovy/linketinder/VacancyTest.groovy" dialect="PostgreSQL" />
   </component>
 </project>
